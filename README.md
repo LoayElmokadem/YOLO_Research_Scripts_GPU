@@ -42,8 +42,6 @@ YOLO_RESEARCH_GPU_REPO/
 │
 ├── # ── Docker ─────────────────────────────────────────────────
 ├── docker_setup.md       # Docker setup guide for Jetson Nano & Jetson Orin Nano
-│
-└── FPS.png               # Sample benchmark result chart
 ```
 
 ---
