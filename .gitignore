@@ -1,0 +1,51 @@
+# ─── Model Weights ───────────────────────────────────────────────
+*.pt
+*.pth
+*.onnx
+*.engine
+*.trt
+
+# ─── Datasets ────────────────────────────────────────────────────
+coco128/
+datasets/
+data/
+
+# ─── Benchmark Output ────────────────────────────────────────────
+logs/
+results/
+runs/
+*.log
+*.json
+
+# ─── Python ──────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# ─── Jupyter ─────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ─── Virtual Environments ────────────────────────────────────────
+venv/
+env/
+.venv/
+*.env
+
+# ─── OS Artifacts ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE ─────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
